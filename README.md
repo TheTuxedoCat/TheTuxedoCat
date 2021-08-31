@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @TheTuxedoCat
+- 👀 I’m interested in Godot,Java,Python and Javascript
+- 🌱 I’m currently learning Java
